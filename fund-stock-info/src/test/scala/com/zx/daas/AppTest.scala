@@ -1,4 +1,4 @@
-package com.rayfay.daas
+package com.zx.daas
 
 import org.junit._
 import Assert._

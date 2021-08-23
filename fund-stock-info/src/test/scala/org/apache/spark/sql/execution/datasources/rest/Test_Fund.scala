@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter
 import java.util
 
 import com.google.common.base.Splitter
-import com.rayfay.test.JJUtils
+import com.zx.test.JJUtils
 import org.apache.spark.sql.{SaveMode, SparkSession}
 import org.jsoup.Jsoup
 import org.junit.Test

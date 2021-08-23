@@ -1,4 +1,4 @@
-package com.rayfay.test;
+package com.zx.test;
 
 import com.google.common.base.Splitter;
 import com.google.common.collect.Lists;

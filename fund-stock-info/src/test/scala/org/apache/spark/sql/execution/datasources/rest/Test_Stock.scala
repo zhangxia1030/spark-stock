@@ -5,11 +5,10 @@ import java.time.format.DateTimeFormatter
 import java.util
 
 import com.google.common.base.Splitter
-import com.rayfay.test.JJUtils
 import org.apache.spark.sql.{SaveMode, SparkSession}
 import org.jsoup.Jsoup
 import org.junit.Test
-import com.rayfay.test.StockInfo
+import com.zx.test.{JJUtils, StockInfo}
 
 /**
  * Created by zx on 2019/11/9 - 15:03.
